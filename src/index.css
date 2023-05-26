@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .rr--has-stroke .rr--on .rr--svg {
+    stroke: #0d2628!important;
+}
+.rr--on .rr--svg {
+    fill: #3e3323!important;
+} */
